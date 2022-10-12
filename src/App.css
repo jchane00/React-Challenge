@@ -16,3 +16,7 @@ form, label {
 .Highlight {
   background: yellow;
 }
+
+form {
+  width: 35%;
+}

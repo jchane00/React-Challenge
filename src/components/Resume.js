@@ -6,12 +6,13 @@ import {
 	FaNode, 
     FaReact, 
 	FaNpm, 
-	FaCloudDownloadAlt 
+	FaCloudDownloadAlt,
+	FaJsSquare
 } 
 from "react-icons/fa";
 import {SiGraphql, SiMysql, } from "react-icons/si";
 import { DiJqueryLogo, DiMongodb } from "react-icons/di";
-import myResume from '../../assets/files/myResume.docx';
+import myResume from './assets/myResume.docx';
 import { Col, Row } from 'react-bootstrap';
 
 function Resume() {
