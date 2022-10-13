@@ -31,9 +31,7 @@ function AboutMe() {
             Austin's Full Stack Web Developer Bootcamp. This program has enabled me with the programming skills
             to create progressive web
             applications using the MongoDB, Express, React and Node.js (MERN)
-            JavaScript stack. Additionally, I'm adept at problem-solving and look forwardhis experience has made me effective at combining
-            creativity, problem solving, and empathy to develop user-friendly
-            applications.
+            JavaScript stack.
             
           </h3>
           <br></br>
