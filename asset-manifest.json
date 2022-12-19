@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/React-Challenge/static/css/main.8c8debe0.css",
-    "main.js": "/React-Challenge/static/js/main.61230f73.js",
+    "main.css": "/React-Challenge/static/css/main.ba8dd3f7.css",
+    "main.js": "/React-Challenge/static/js/main.0d786b55.js",
     "static/js/787.dfc11a1a.chunk.js": "/React-Challenge/static/js/787.dfc11a1a.chunk.js",
     "static/media/profileImage.jpg": "/React-Challenge/static/media/profileImage.6ae63fd9cc6493114a72.jpg",
-    "static/media/muscleHustle.png": "/React-Challenge/static/media/muscleHustle.4bac37c20b816abe84d8.png",
+    "static/media/muscleHustle.png": "/React-Challenge/static/media/muscleHustle.448fd7e193a7f5689178.png",
     "static/media/Cars2Go.png": "/React-Challenge/static/media/Cars2Go.5e1e96598a3eff33754d.png",
     "static/media/myResume.docx": "/React-Challenge/static/media/myResume.5015a5434101d1cfdf64.docx",
     "static/media/fresh.ly.png": "/React-Challenge/static/media/fresh.ly.1fb255e9f9e185df9e52.png",
     "index.html": "/React-Challenge/index.html",
-    "main.8c8debe0.css.map": "/React-Challenge/static/css/main.8c8debe0.css.map",
-    "main.61230f73.js.map": "/React-Challenge/static/js/main.61230f73.js.map",
+    "main.ba8dd3f7.css.map": "/React-Challenge/static/css/main.ba8dd3f7.css.map",
+    "main.0d786b55.js.map": "/React-Challenge/static/js/main.0d786b55.js.map",
     "787.dfc11a1a.chunk.js.map": "/React-Challenge/static/js/787.dfc11a1a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c8debe0.css",
-    "static/js/main.61230f73.js"
+    "static/css/main.ba8dd3f7.css",
+    "static/js/main.0d786b55.js"
   ]
 }
