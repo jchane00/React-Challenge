@@ -17,7 +17,7 @@ import { Col, Row } from 'react-bootstrap';
 
 function Resume() {
     return (
-        <section>
+        <section className='resumeContainer'>
             <div className="center">
 				<h1 className="page-header">My Resume</h1>
 			</div>
@@ -29,7 +29,7 @@ function Resume() {
             <Row>
 			
             <Col>
-				<h5>Front-End:</h5>
+				<h4>Front-End:</h4>
 				<ol>
 					<li>HTML5 <FaHtml5 /></li>
 					<li>CSS3 <FaCss3Alt /></li>
@@ -41,7 +41,7 @@ function Resume() {
 				<br></br>
             </Col>
             <Col>
-				<h5>Back-End:</h5>
+				<h4>Back-End:</h4>
 				<ol>
                     <li>Nodejs  <FaNode /></li>
 					<li>Expressjs <FaNpm /></li>

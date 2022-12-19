@@ -5,7 +5,7 @@ import { Container, Row, Col } from "react-bootstrap";
 
 function Footer() {
   return (
-    <Container >
+    <Container className="footer">
     <IconContext.Provider value={{ size:"3em"}}>
     <footer>
       <Row>

@@ -1,4 +1,3 @@
-
 import { 
     FaHtml5, 
 	FaCss3Alt, 	 
@@ -34,10 +33,8 @@ function AboutMe() {
             JavaScript stack.
             
           </h3>
-          <br></br>
-          <br></br>
-          <br></br>
-          <h4>Developer Skills:</h4>
+          <br></br>      
+          <h3>Developer Skills:</h3>
           <h2>
             <FaHtml5 />
             <FaCss3Alt />

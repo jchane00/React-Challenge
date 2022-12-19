@@ -5,6 +5,7 @@ import Contact from "./components/Contact";
 import Navbar from "./components/Navbar";
 import Portfolio from "./components/Portfolio";
 import Resume from "./components/Resume";
+import Footer from "./components/Footer";
 
 function App() {
   const [currentPage, setCurrentPage] = useState("About Me")
@@ -14,9 +15,13 @@ function App() {
       { currentPage === "About Me" && <AboutMe />}
       { currentPage === "Portfolio" && <Portfolio />}
       { currentPage === "Contact" && <Contact />}
-      { currentPage === "Resume" && <Resume />}
+      { currentPage === "Resume" && <Resume />}  
+    
+      <Footer></Footer>
     </div>
   );
+  
 }
+
 
 export default App;
